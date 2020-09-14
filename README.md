@@ -32,6 +32,8 @@ Angular was the framework used to achieve the app using HTML and CSS as the prim
 
 If you experience issues that are related to my site and are hindering you from accessing this material, then please contact me @ albertotieno41@gmail.com
 
+Live Site
+To view this site access https://amwata-albert.github.io/GITHUB-SEARCH/
 
 Copyright (c)2020
 **Amwata Albert**
